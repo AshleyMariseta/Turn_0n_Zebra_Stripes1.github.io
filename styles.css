@@ -1,0 +1,37 @@
+body {
+ background-color: lightgrey;
+}
+
+th , tr{
+  text-align:center;
+  border: 2px black solid
+}
+
+
+td {
+  text-align: center;
+}
+
+#my_table {
+  align-self: center;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+.table_section {
+  align-items: center;
+  margin-top: 2em;
+
+}
+
+
+tr {
+  border: 2px black solid;
+  background-color: white;
+}
+
+#button {
+  margin: auto;
+  margin-top: 3em;
+  margin-left: 43em;
+}
